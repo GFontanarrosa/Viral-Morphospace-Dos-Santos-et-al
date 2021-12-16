@@ -145,7 +145,7 @@ points(rep(0.5, length(quantilex)) , seq(0.02, 1.2, length.out = length(quantile
 text(rep(0.5, length(quantilex)) , seq(0.02, 1.2, length.out = length(quantilex)), seq(0, 1, 0.1), pos = 4)
 
 ####################################################
-#End of lines for producing Figure 2
+#End of lines for producing Figure 3
 ####################################################
 
 
