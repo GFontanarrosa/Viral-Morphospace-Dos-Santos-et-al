@@ -1,9 +1,24 @@
 Paper: Insights on the evolution of Coronavirinae in general, 
        and SARS-CoV-2 in particular, through innovative biocomputational resources 
 
-Authors: Dos Santos Daniel Andrés; Reynaga, María Celina; Gonzalez, Juan Cruz; Fontanarrosa, Gabriela; Gultemirian, Lourdes; Novillo, Agustina; Abdala, Virginia.
+Author names and affiliations:
+
+Dos Santos Daniel Andrés(a,b)#; Reynaga, María Celina(a)#; Gonzalez, Juan Cruz(a); Fontanarrosa, Gabriela(a); Gultemirian, Lourdes(a,c); Novillo, Agustina(a); Abdala, Virginia(a,d).
+
+a Instituto de Biodiversidad Neotropical, IBN (CONICET-UNT), Horco Molle S/N, 
+Tucumán, Argentina. 
+b Cátedra de Bioestadística, Facultad de Ciencias Naturales e IML, UNT, Tucumán, 
+Argentina. 
+c Cátedra de Química Inorgánica, Facultad de Ciencias Naturales e IML, UNT, Tucumán, 
+Argentina.
+d Cátedra de Biología General, Facultad de Ciencias Naturales e IML, UNT, Tucumán, 
+Argentina.
+
+# Address correspondence to Daniel Andrés Dos Santos and María Celina Reynaga: 
+dadossantos@csnat.unt.edu.ar, celinareynaga@gmail.com
 
 Description:
+
 
 This README file describes the data package accompanying the above publication. 
 
