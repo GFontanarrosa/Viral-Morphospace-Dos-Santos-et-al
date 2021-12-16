@@ -1,0 +1,7 @@
+#NEXUS
+BEGIN TREES;
+
+
+TREE metatree = ((((Mareca)Anatidae,Meleagris_gallopavo),((Ardeidae,Gallinula_chloropus),(((Turdus_hortulorum,Muscicapidae),(Lonchura_striata,Passeridae)),(Pycnonotus_jocosus,Pycnonotus_sinensis)))),(((((((Canis_lupus_familiaris,(Mustela_putorius,Neovison_vison)),((Paradoxurus_hermaphroditus)Viverridae,(Felis_catus)Feliformia)),Manis_javanica),((Vicugna_pacos,(Camelus_bactrianus)Camelus),((Delphinapterus_leucas,(((Rusa_unicolor,Odocoileus_virginianus),(Bos_taurus,Kobus_ellipsiprymnus)Bovidae),Giraffa_camelopardalis)),Sus_scrofa))),(((((Hipposideros_pratti,Aselliscus_stoliczkanus),Triaenops_afer),(((Rhinolophus_sinicus,(Rhinolophus_macrotis,(Rhinolophus_monoceros,Rhinolophus_pusillus))),Rhinolophus_affinis),(Rhinolophus_blasii,Rhinolophus_ferrumequinum))Rhinolophus),Rousettus_leschenaultii),(Chaerephon_plicatus,(Myotis_ricketti,((Pipistrellus,Nyctalus_velutinus),Vespertilio_sinensis))))Chiroptera),(Erinaceus_europaeus,Suncus_murinus)),((Oryctolagus_cuniculus,((Rattus_norvegicus)Rattus,(Mus_musculus,Apodemus_chevrieri))),Homo_sapiens)));
+
+END;
